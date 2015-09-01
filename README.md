@@ -1,3 +1,3 @@
-# EDeN_examples
-IPython notebooks describing the use of the EDeN framework
+# EDeN framework examples
+Collection of IPython notebooks describing the use of the EDeN framework.
 
